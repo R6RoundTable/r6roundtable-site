@@ -1,0 +1,19 @@
+title: "R6 Round Table of Operators"
+description: >- # this means to ignore newlines until "baseurl:"
+  A community of Rainbow Six cosplayers!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://r6roundtable.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: roundtabler6
+github_username:  r6roundtable
+
+# Build settings
+remote_theme: joeyfoo/slate
+
+header_pages:
+  - index.md
+  - discord.md
+
+permalink: pretty
+
+plugins:
+  - jekyll-redirect-from
