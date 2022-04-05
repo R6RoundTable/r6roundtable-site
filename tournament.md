@@ -1,6 +1,7 @@
 ---
 layout: page
-title: R6 Round Table Charity Tournament 2022
+title: Charity Tournament 2022
+description: April 16-17, 2022, benefitting Child's Play charity!
 background-image: assets/img/tournament.jpg
 ---
 
@@ -19,9 +20,30 @@ Day 1 starts <span class="datetime">2022-04-16T10:00:00-04:00</span>
 
 Day 2 starts <span class="datetime">2022-04-17T10:00:00-04:00</span>
 
-## Where to watch
+## Join us!
 
-*Coming soon!*
+<ul class="link-collection">
+    <li class="link">
+        <a href="https://www.twitch.tv/RoundTableOfOperators">
+            <div class="link-title">
+                <p>Watch the stream</p>
+            </div>
+            <div class="link-description">
+                <p>Follow twitch.tv/RoundTableOfOperators</p>
+            </div>
+        </a>
+    </li>
+    <li class="link">
+        <a href="#">
+            <div class="link-title">
+                <p>Donate to Child's Play</p>
+            </div>
+            <div class="link-description">
+                <p><strong>Link coming soon!</strong></p>
+            </div>
+        </a>
+    </li>
+</ul>
 
 ## Participants
 
