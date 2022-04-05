@@ -6,7 +6,7 @@ background-image: assets/img/tournament.jpg
 ---
 
 {:.lead}
-Join us as Rainbow Six cosplayers battle it out in the R6 Round Table of Operators' **Charity Tournament 2022**, and raising funds for Child's Play charity!
+Join us as Rainbow Six cosplayers battle it out in the R6 Round Table of Operators' **Charity Tournament 2022**, while raising funds for Child's Play charity!
 
 * Proceeds will go to Child's Play charity
 * Prizes made by the community will be raffled off to donators during the event
@@ -16,9 +16,9 @@ Join us as Rainbow Six cosplayers battle it out in the R6 Round Table of Operato
 
 Matches will be played over two days, from April 16 to 17, starting at 10am Eastern Time! 
 
-Day 1 starts <span class="datetime">2022-04-16T10:00:00-04:00</span>
-
-Day 2 starts <span class="datetime">2022-04-17T10:00:00-04:00</span>
+In your local time:
+* Day 1 starts <span class="datetime">2022-04-16T10:00:00-04:00</span>
+* Day 2 starts <span class="datetime">2022-04-17T10:00:00-04:00</span>
 
 ## Join us!
 
@@ -75,3 +75,14 @@ Map pool:
 -----
 
 Background art by Luxeini!
+
+<!-- Scripts for conversion to local time -->
+<script src="/assets/js/luxon.min.js"></script>
+<script>
+"strict mode";
+let elements = document.getElementsByClassName("datetime");
+for(let i = 0; i < elements.length; ++i)
+{
+    elements[i].innerText = luxon.DateTime.fromISO(elements[i].innerText).toLocal().toFormat("ccc, d LLL yyyy, hh:mm a ZZ");
+}
+</script>
