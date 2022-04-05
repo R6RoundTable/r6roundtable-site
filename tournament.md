@@ -51,7 +51,7 @@ Team   | Participants |
 -------|---
 Team 1 | FriskyWalrus, Detaleader, Dolame55, stonecold913, Beers
 Team 2 | NoLimi7, Nocturra, Fooz, Hibonbon, sazafraZ
-Team 3 | Deliciousxx, Rockkaebi, stefanni_mah, solari, luxeini 
+Team 3 | DotRawr, Rockkaebi, stefanni_mah, solari, luxeini 
 Team 4 | Andarne, HAWXGamer141, Neo.SP, Widowo, dr.alfred 
 Team 5 | cheen, Daddy Buck, ChrisDaAsian, Frosty, Brightsword 
 Team 6 | Phoenix, Travis248, BlueStreak, Tachunky, Skye
