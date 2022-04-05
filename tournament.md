@@ -16,6 +16,7 @@ Join us as Rainbow Six cosplayers battle it out in the R6 Round Table of Operato
 Matches will be played over two days, from April 16 to 17, starting at 10am Eastern Time! 
 
 Day 1 starts <span class="datetime">2022-04-16T10:00:00-04:00</span>
+
 Day 2 starts <span class="datetime">2022-04-17T10:00:00-04:00</span>
 
 ## Where to watch
@@ -24,14 +25,16 @@ Day 2 starts <span class="datetime">2022-04-17T10:00:00-04:00</span>
 
 ## Participants
 
-Team 1: FriskyWalrus, Detaleader, Dolame55, stonecold913, Beers
-Team 2: NoLimi7, Nocturra, Fooz, Hibonbon, sazafraZ
-Team 3: Deliciousxx, Rockkaebi, stefanni_mah, solari, luxeini 
-Team 4: Andarne, HAWXGamer141, Neo.SP, Widowo, dr.alfred 
-Team 5: cheen, Daddy Buck, ChrisDaAsian, Frosty, Brightsword 
-Team 6: Phoenix, Travis248, BlueStreak, Tachunky, Skye
-
-Casters: ArtifexWarden, Fooz, dr.alfred
+Team   | Participants |
+-------|---
+Team 1 | FriskyWalrus, Detaleader, Dolame55, stonecold913, Beers
+Team 2 | NoLimi7, Nocturra, Fooz, Hibonbon, sazafraZ
+Team 3 | Deliciousxx, Rockkaebi, stefanni_mah, solari, luxeini 
+Team 4 | Andarne, HAWXGamer141, Neo.SP, Widowo, dr.alfred 
+Team 5 | cheen, Daddy Buck, ChrisDaAsian, Frosty, Brightsword 
+Team 6 | Phoenix, Travis248, BlueStreak, Tachunky, Skye
+&nbsp; | 
+Casters | ArtifexWarden, Fooz, dr.alfred
 
 ## Format
 
