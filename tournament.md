@@ -49,9 +49,9 @@ In your local time:
 
 Team   | Participants |
 -------|---
-Team 1 | FriskyWalrus, Detaleader, Dolame55, stonecold913, Beers
-Team 2 | NoLimi7, Nocturra, SpectralThreat, Hibonbon, sazafraZ
-Team 3 | DotRawr, Rockkaebi, stefanni_mah, solari, luxeini 
+The Two Timers | FriskyWalrus, Detaleader, Dolame55, stonecold913, Beers
+The Termites | NoLimi7, Nocturra, SpectralThreat, Hibonbon, sazafraZ
+Crystal Six | DotRawr, Rockkaebi, stefanni_mah, solari, luxeini 
 Team 4 | Andarne, HAWXGamer141, Neo.SP, Widowo, dr.alfred 
 The Rat Pack | cheen, Daddy Buck, ChrisDaAsian, Frosty, Brightsword 
 Team 6 | Phoenix, Travis248, BlueStreak, Tachunky, Skye
