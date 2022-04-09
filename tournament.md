@@ -49,14 +49,14 @@ In your local time:
 
 Team   | Participants |
 -------|---
-The Two Timers | FriskyWalrus, Detaleader, Dolame55, stonecold913, Beers
-The Termites | NoLimi7, Nocturra, SpectralThreat, Hibonbon, sazafraZ
-Crystal Six | DotRawr, Rockkaebi, stefanni_mah, solari, luxeini 
-Skill Issue | Andarne, HAWXGamer141, Neo.SP, Widowo, dr.alfred 
-The Rat Pack | cheen, Daddy Buck, ChrisDaAsian, Frosty, Brightsword 
-Team 6 | Phoenix, Travis248, BlueStreak, Tachunky, Skye
+The Two Timers |Beers, Detaleader, Dolame55, [FriskyWalrus](https://twitter.com/thefriskywalrus), [Stonecold913](https://twitter.com/st0necold913)
+The Termites | Hibonbon, Nocturra, NoLimi7, sazafraZ, SpectralThreat
+Crystal Six | DotRawr, [luxeini](https://twitter.com/luxeini), [Rockkaebi](https://twitter.com/RockkaebiDaze), [Solari](https://instagram.com/solari_cosplay), [stefanni_mah](https://twitter.com/stefanni_mah)
+Skill Issue | [Andarne](https://twitter.com/Andarne_), dr.alfred , HAWXGamer141, [Neo.SP](https://twitter.com/NeoSP5), [Thorning_Around](https://instagram.com/thorning_around)
+The Rat Pack | Brightsword , [Bucky Boi](https://twitter.com/94_Vlad_Impala), [cheen](https://twitter.com/_cheenis), ChrisDaAsian, [FrostyOwO](https://youtube.com/channel/UCwhGuY86PoV_cSLtUvaDd_w)
+Team 6 | [Ari](https://twitter.com/Arihel_EN), [BlueStreak](https://instagram.com/bluestreak_cosplay95), [Idontmainjager](https://tiktok.com/@idontmainjager), Phoenix, [SkyeOfShadow](https://twitter.com/SkyeOfShadow)
 &nbsp; | 
-Casters | ArtifexWarden, SpectralThreat, dr.alfred
+Casters | [ArtifexWarden](https://twitter.com/ArtifexWarden), SpectralThreat, dr.alfred
 
 ## Format
 
