@@ -49,7 +49,7 @@ In your local time:
 
 Team   | Participants |
 -------|---
-The Two Timers |Beers, Detaleader, Dolame55, [FriskyWalrus](https://twitter.com/thefriskywalrus), [Stonecold913](https://twitter.com/st0necold913)
+The Two Timers |Beers, [Deta](https://twitter.com/Detaleader), Dolame55, [FriskyWalrus](https://twitter.com/thefriskywalrus), [Stonecold913](https://twitter.com/st0necold913)
 The Termites | Hibonbon, Nocturra, NoLimi7, sazafraZ, SpectralThreat
 Crystal Six | DotRawr, [luxeini](https://twitter.com/luxeini), [Rockkaebi](https://twitter.com/RockkaebiDaze), [Solari](https://instagram.com/solari_cosplay), [stefanni_mah](https://twitter.com/stefanni_mah)
 Skill Issue | [Andarne](https://twitter.com/Andarne_), dr.alfred , HAWXGamer141, [Neo.SP](https://twitter.com/NeoSP5), [Thorning_Around](https://instagram.com/thorning_around)
