@@ -71,6 +71,7 @@ Map pool:
 * Theme Park
 * Bank
 * Coastline
+* Kafe Dostoyevsky 
 
 -----
 
