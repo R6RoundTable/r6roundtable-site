@@ -54,7 +54,7 @@ The Termites | Hibonbon, Nocturra, NoLimi7, sazafraZ, SpectralThreat
 Crystal Six | DotRawr, [luxeini](https://twitter.com/luxeini), [Rockkaebi](https://twitter.com/RockkaebiDaze), [Solari](https://instagram.com/solari_cosplay), [stefanni_mah](https://twitter.com/stefanni_mah)
 Skill Issue | [Andarne](https://twitter.com/Andarne_), dr.alfred , HAWXGamer141, [Neo.SP](https://twitter.com/NeoSP5), [Thorning_Around](https://instagram.com/thorning_around)
 The Rat Pack | Brightsword , [Bucky Boi](https://twitter.com/94_Vlad_Impala), [cheen](https://twitter.com/_cheenis), ChrisDaAsian, [FrostyOwO](https://youtube.com/channel/UCwhGuY86PoV_cSLtUvaDd_w)
-Team 6 | [Ari](https://twitter.com/Arihel_EN), [BlueStreak](https://instagram.com/bluestreak_cosplay95), [Idontmainjager](https://tiktok.com/@idontmainjager), Phoenix, [SkyeOfShadow](https://twitter.com/SkyeOfShadow)
+Team Spaghet | [Ari](https://twitter.com/Arihel_EN), [BlueStreak](https://instagram.com/bluestreak_cosplay95), [Idontmainjager](https://tiktok.com/@idontmainjager), [Phoenix Astral](https://twitter.com/Phoenix_Astral), [SkyeOfShadow](https://twitter.com/SkyeOfShadow)
 &nbsp; | 
 Casters | [ArtifexWarden](https://twitter.com/ArtifexWarden), SpectralThreat, dr.alfred
 
