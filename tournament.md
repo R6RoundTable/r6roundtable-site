@@ -91,7 +91,7 @@ starting at <span class="time">2022-04-17T10:00:00-04:00</span>
 
 ![Graphics of the roster of The Termites](assets/img/tournament2022/R6RT-Tourney2022-Team2.jpg)
 
-[Hibonbon](https://twitter.com/Hibonbonn) &bull; [Nocturra](https://twitter.com/nocturra) &bull; [sazafraZ](https://twitter.com/_sazafraZ_) &bull; [NoLimi7](https://twitter.com/NoLimi7_) &bull; [SpectralThreat](twitch.tv/spectralthreat)
+[Hibonbon](https://twitter.com/Hibonbonn) &bull; [Nocturra](https://twitter.com/nocturra) &bull; [sazafraZ](https://twitter.com/_sazafraZ_) &bull; [NoLimi7](https://twitter.com/NoLimi7_) &bull; [SpectralThreat](https://twitch.tv/spectralthreat)
 
 ### Team 3: Crystal Six
 
