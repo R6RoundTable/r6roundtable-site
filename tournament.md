@@ -5,7 +5,11 @@ description: April 16-17, 2022, benefitting Child's Play charity!
 background-image: assets/img/tournament.jpg
 ---
 
-{:.lead}
+{:.lead .info}
+The tournament has ended, with $2,570.65 raised for Child's Play! Thank you for joining us, and see you next time! 
+
+----
+
 Join us as Rainbow Six cosplayers battle it out in the R6 Round Table of Operators' **Charity Tournament 2022**, while raising funds for Child's Play charity!
 
 * Proceeds will go to Child's Play charity
