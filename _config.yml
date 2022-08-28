@@ -11,6 +11,7 @@ remote_theme: joeyfoo/slate
 
 header_pages:
   - index.md
+  - tournament.md
   - discord.md
 
 permalink: pretty
