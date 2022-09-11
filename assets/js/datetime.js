@@ -17,5 +17,5 @@ for(let i = 0; i < time.length; ++i)
 let localtime = document.getElementsByClassName("local-time");
 for(let i = 0; i < localtime.length; ++i)
 {
-    localtime[i].innerHTML = luxon.DateTime.fromISO(localtime[i].innerText).toLocal().toFormat("hh:mm a <small>your local time, UTCZZ</small>");
+    localtime[i].innerHTML = luxon.DateTime.fromISO(localtime[i].innerText).toLocal().toFormat("hh:mm a '<small>your local time, UTC'ZZ'</small>'");
 }
