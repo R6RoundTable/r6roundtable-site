@@ -12,16 +12,16 @@ welcome: The R6 Round Table of Operators
 description: A community of Rainbow Six cosplayers!
 
 links:
-    - title: "Charity Tournament 2022"
-      link: /tournament
-      description: Learn more about our charity tournament on October 8 to 9, 2022!
+#    - title: "Charity Tournament 2022"
+#      link: /tournament
+#      description: Learn more about our charity tournament on October 8 to 9, 2022!
     - title: Join our **Discord Server**
       link: /discord
       description: "r6roundtable.com/discord"
     - section: On social media
     - title: Follow us on Twitter
-      link: https://twitter.com/roundtabler6
-      description: "@roundtabler6"
+      link: https://twitter.com/RoundTableR6
+      description: "@R6RoundTable"
 ---
 
 <div style="opacity: 0.75;">This website is under construction, but you can find us in the links below!</div>
