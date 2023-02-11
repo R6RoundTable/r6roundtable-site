@@ -36,12 +36,12 @@ starting at <span class="local-time">2022-10-09T10:00:00-04:00</span>
 
 <ul class="link-collection">
     <li class="link">
-        <a href="https://www.twitch.tv/RoundTableOfOperators">
+        <a href="https://www.twitch.tv/r6roundtable">
             <div class="link-title">
                 <p>Watch the stream</p>
             </div>
             <div class="link-description">
-                <p>Follow twitch.tv/RoundTableOfOperators</p>
+                <p>Follow twitch.tv/r6roundtable</p>
             </div>
         </a>
     </li>

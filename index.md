@@ -18,10 +18,13 @@ links:
     - title: Join our **Discord Server**
       link: /discord
       description: "r6roundtable.com/discord"
-    - section: On social media
-    - title: Follow us on Twitter
-      link: https://twitter.com/RoundTableR6
-      description: "@R6RoundTable"
+    - section: On social media - @R6RoundTable
+    - title: Twitter
+      link: https://twitter.com/R6RoundTable
+    - title: Instagram
+      link: https://instagram.com/R6RoundTable
+    - title: Twitch
+      link: https://twitch.tv/R6RoundTable
 ---
 
 <div style="opacity: 0.75;">This website is under construction, but you can find us in the links below!</div>
