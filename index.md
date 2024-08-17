@@ -5,16 +5,16 @@
 title: Home
 layout: home
 
-background-image: assets/img/hero.jpg
+background-image: /assets/img/hero.jpg
 
 welcome: The R6 Round Table of Operators
 
 description: A community of Rainbow Six cosplayers!
 
 links:
-#    - title: "Charity Tournament 2022"
-#      link: /tournament
-#      description: Learn more about our charity tournament on October 8 to 9, 2022!
+    - title: "🏆 **Charity Tournament** 2024"
+      link: /tournament/2024
+      description: Learn more about our charity tournament on August 17-18, 2024!
     - title: Join our **Discord Server**
       link: /discord
       description: "r6roundtable.com/discord"
