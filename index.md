@@ -12,17 +12,19 @@ welcome: The R6 Round Table of Operators
 description: A community of Rainbow Six cosplayers!
 
 links:
-    - title: "🏆 **Charity Tournament** 2025"
-      link: /tournament/2025
-      description: Learn more about our charity tournament on August 16 and 17, 2025!
-    - title: Join our **Discord Server**
+#    - title: "🏆 **Charity Tournament** 2025"
+#      link: /tournament/2025
+#      description: Learn more about our charity tournament on August 16 and 17, 2025!
+    - title: 💬 **Join our Discord Server**
       link: /discord
       description: "r6roundtable.com/discord"
     - section: On social media - @R6RoundTable
-    - title: Twitter
-      link: https://twitter.com/R6RoundTable
+    - title: Bluesky
+      link: https://bsky.app/profile/r6roundtable.com
     - title: Instagram
       link: https://instagram.com/R6RoundTable
+    - title: Twitter
+      link: https://twitter.com/R6RoundTable
     - title: Twitch
       link: https://twitch.tv/R6RoundTable
 ---
