@@ -7,11 +7,14 @@ background-image: assets/img/tournament2024/R6RT-CT24-WebBackground.jpg
 
 ## Upcoming:
 
+<!--
 {:.info .lead}
 The next Charity Yournament is planned for August 2025!
+-->
+
+*There are currently no upcoming events planned.*
 
 {:.lead}
-* [Charity Tournament (August 16-17, 2025)](/tournament/2025)
 
 &nbsp;
 
@@ -19,6 +22,7 @@ The next Charity Yournament is planned for August 2025!
 
 ## Past events
 
+* [Charity Tournament (August 16-17, 2025)](/tournament/2025)
 * [Charity Tournament (August 17-18, 2024)](/tournament/2024)
 * Charity Tournament (August 12-13, 2023)
 * [Charity Tournament (October 8-9, 2022)](/tournament/2022-10)
