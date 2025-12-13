@@ -29,5 +29,3 @@ The next Charity Yournament is planned for August 2025!
 * [Charity Tournament (April 16-17, 2022)](/tournament/2022-04)
 
 -----
-
-Background art by Luxeini!
