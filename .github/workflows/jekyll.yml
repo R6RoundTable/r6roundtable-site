@@ -43,9 +43,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
       - name: Print out events.json
-        run: curl https://roundtablebot.r6roundtable.com/events
+        run: curl --user-agent R6RoundTableBot https://roundtablebot.r6roundtable.com/events
       - name: Update events.json
-        run: curl --output _data/events.json https://roundtablebot.r6roundtable.com/events
+        run: curl --output _data/events.json --user-agent R6RoundTableBot https://roundtablebot.r6roundtable.com/events
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
