@@ -11,7 +11,7 @@ remote_theme: joeyfoo/slate
 
 header_pages:
   - index.md
-  - events.md
+  - events.html
   - tournament.md
   - discord.md
 
@@ -21,9 +21,9 @@ plugins:
   - jekyll-redirect-from
 
 collections_dir: collections
-collections:
-  events:
-    output: true
+# collections:
+#   events:
+#     output: true
 
 
 defaults:

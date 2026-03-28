@@ -1,0 +1,169 @@
+---
+layout: page
+title: Events
+description: See a list of events Round Table members are attending!
+---
+
+<p>
+This page is in <b>beta</b> and will be continually improved with additional features.
+</p>
+
+<p>
+  <b>Please note:</b> Information provide from this page is taken from the #event-threads channel on the Discord server, and may be inaccurate. Please report any errors on the server!
+</p>
+
+<hr>
+
+<div>
+  <h2>Calendar</h2>
+  <details>
+    <summary>Toggle calendar</summary>
+    <div id="calendar"></div>
+  </details>
+</div>
+
+<hr>
+
+<h2>Event list</h2>
+<style>
+  .tags {
+    font-size: 0.75rem;
+  }
+  .tag {
+    display: inline-block;
+    padding: 0 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  .highlight {
+    background-image: radial-gradient(circle at bottom right, rgba(255, 192, 64, 0.375) 0%, rgba(255, 192, 64, 0.05) 100%);
+  }
+  .highlight .link-title{
+    font-weight: bold;
+  }
+  .highlight2 {
+    background-image: radial-gradient(circle at bottom right, rgba(128, 128, 128, 0.375) 0%, rgba(128, 128, 128, 0.05) 100%);
+  }
+
+  .past {
+    opacity: 0.5;
+    transition: opacity 1s ease-out;
+  }
+
+  summary
+  {
+    cursor: pointer;
+  }
+
+  .fc .fc-toolbar-title {
+    font-size: 1rem;
+    padding: 0px;
+  }
+</style>
+
+{% assign list = site.data.events | sort: "start_date" | reverse %}
+{% assign prev = none %}
+{% assign start_of_year = true %}
+
+{% for item in list %}
+  {% assign item_date_split = item.start_date | split: "-" %}
+  {% if prev != none %}
+    {% assign prev_date_split = prev.start_date | split: "-" %}
+    {% if prev_date_split[0] != item_date_split[0] %}
+      {% assign start_of_year = true %}
+    {% else %}
+      {% assign start_of_year = false %}
+    {% endif %}
+  {% endif %}
+
+  {% assign highlight = null %}
+  {% for tag in item.tags %}
+    {% if tag contains 'Major' or tag contains 'Special' %}
+      {% assign highlight = "highlight" %}
+    {% elsif tag contains 'R6' %}
+      {% assign highlight = "highlight2" %}
+    {% endif %}
+  {% endfor %}
+
+  {% if start_of_year %}
+    {% if prev != none %}</ul>{% endif %}
+    <h3>{{item_date_split[0]}}</h3>
+    <ul class="link-collection spaced">
+  {% endif %}
+  <li class="link event-item {{ highlight }}" data-title="{{ item.title }}" data-start-date="{{ item.start_date }}" data-end-date="{{ item.end_date }}" data-details="{{ item.details }}">
+    <a>
+      <div class="tags">
+        {% for tag in item.tags %}
+          <div class="tag">{{tag}}</div>
+        {% endfor %}
+      </div>
+      <div class="link-title">
+        {{ item.title | escape }}
+      </div>
+      <div class="link-details">
+        <p>
+          {{ item.start_date | date_to_string }}
+          {% if item.end_date %}
+            to {{ item.end_date | date_to_string }}
+          {% endif %}
+        </p>
+      </div>
+      <div class="link-description">
+        {% if item.details %}
+          <p>{{ item.details | escape }}</p>
+        {% endif %}
+      </div>
+    </a>
+  </li>
+    {% assign prev = item %}
+{% endfor %}
+</ul>
+
+<script>
+  const currentDate = new Date().toISOString();
+  for (let i = 0; i < document.getElementsByClassName("link").length; i++) {
+    const element = document.getElementsByClassName("link")[i];
+    if(element.dataset["endDate"] && element.dataset["endDate"] < currentDate)
+    {
+      element.classList.add("past");
+    }
+    else if(element.dataset["startDate"] && element.dataset["startDate"] < currentDate)
+    {
+      element.classList.add("past");
+    }
+  }
+</script>
+
+<script src="/assets/js/fullcalendar/core.global.min.js"></script>
+<script src="/assets/js/fullcalendar/daygrid.global.min.js"></script>
+<script src="/assets/js/fullcalendar/multimonth.global.min.js"></script>
+
+<script>
+  let events = [];
+  document.querySelectorAll(".event-item").forEach(item => {
+    events.push({
+      "start": item.dataset["startDate"],
+      "end": item.dataset["endDate"],
+      "allDay": true,
+      "title": item.dataset["title"]
+    });
+  });
+
+  var calendarEl = document.getElementById('calendar');
+  var calendar = new FullCalendar.Calendar(calendarEl, {
+    initialView: 'dayGridMonth',
+    events: events,
+    aspectRatio: 2,
+    headerToolbar: {
+      start: "dayGridMonth,multiMonthYear",
+      center: "title",
+      end: "today prev,next",
+    },
+    views: {
+      multiMonthYear: {
+        multiMonthMinWidth: 192,
+      },
+    }
+  });
+  calendar.render();
+</script>

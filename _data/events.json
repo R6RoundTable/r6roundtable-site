@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Placeholder event",
+        "start_date": "2099-12-31",
+        "end_date": null,
+        "details": "If you can read this, the data isn't correctly loaded!",
+        "tags": [
+            "Six Inv. + R6 Majors"
+        ],
+        "thread": {
+            "id": "",
+            "name": "Placeholder event"
+        }
+    },
+    {
+        "title": "R6 Major, Japan",
+        "start_date": "2026-11-01",
+        "end_date": null,
+        "details": null,
+        "tags": [
+            "APAC",
+            "Six Inv. + R6 Majors"
+        ],
+        "thread": {
+            "id": "1474401733756063868",
+            "name": "R6 Major, Japan | ??-?? Nov 2026"
+        }
+    },
+    {
+        "title": "Gamescom Cologne",
+        "start_date": "2026-08-26",
+        "end_date": "2026-08-30",
+        "details": null,
+        "tags": [
+            "Convention",
+            "EU"
+        ],
+        "thread": {
+            "id": "1474054945526251736",
+            "name": "Gamescom Cologne | 26-30 August 2026"
+        }
+    },
+    {
+        "title": "MCM Comic Con London",
+        "start_date": "2026-05-22",
+        "end_date": "2026-05-24",
+        "details": null,
+        "tags": [
+            "Convention",
+            "EU"
+        ],
+        "thread": {
+            "id": "1449914862951206943",
+            "name": "MCM Comic Con London | 22-24 May 2026"
+        }
+    },
+    {
+        "title": "R6 Major: Salt Lake City",
+        "start_date": "2026-05-15",
+        "end_date": "2026-05-17",
+        "details": null,
+        "tags": [
+            "Six Inv. + R6 Majors",
+            "NA"
+        ],
+        "thread": {
+            "id": "1474401589115490345",
+            "name": "R6 Major: Salt Lake City | 15-17 May 2026"
+        }
+    },
+    {
+        "title": "Six Invitational 2026",
+        "start_date": "2026-02-13",
+        "end_date": "2026-02-15",
+        "details": "Paris, France",
+        "tags": [
+            "EU",
+            "Six Inv. + R6 Majors"
+        ],
+        "thread": {
+            "id": "1351292436336345108",
+            "name": "Six Invitational 2026 | 13-15 Feb 2026 | Paris, France"
+        }
+    }
+]
