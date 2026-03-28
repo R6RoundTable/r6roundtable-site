@@ -13,6 +13,7 @@ header_pages:
   - index.md
   - events.html
   - tournament.md
+  - photos.md
   - discord.md
 
 permalink: pretty
