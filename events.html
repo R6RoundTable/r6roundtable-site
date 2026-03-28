@@ -12,17 +12,13 @@ This page is in <b>beta</b> and will be continually improved with additional fea
   <b>Please note:</b> Information provide from this page is taken from the #event-threads channel on the Discord server, and may be inaccurate. Please report any errors on the server!
 </p>
 
-<hr>
-
 <div>
-  <h2>Calendar</h2>
   <details>
-    <summary>Toggle calendar</summary>
+    <h2>Calendar</h2>
+    <summary>Toggle calendar view</summary>
     <div id="calendar"></div>
   </details>
 </div>
-
-<hr>
 
 <h2>Event list</h2>
 <style>
@@ -153,7 +149,6 @@ This page is in <b>beta</b> and will be continually improved with additional fea
   var calendar = new FullCalendar.Calendar(calendarEl, {
     initialView: 'dayGridMonth',
     events: events,
-    aspectRatio: 2,
     headerToolbar: {
       start: "dayGridMonth,multiMonthYear",
       center: "title",
