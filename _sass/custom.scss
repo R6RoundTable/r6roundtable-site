@@ -1,9 +1,29 @@
 h1, h2, h3, h4, h5, h6, header .site-title{
     font-weight: 400;
     text-transform: uppercase;
+    .parent{
+      font-weight: 200;
+    }
 }
 
 main article .page-info > * {
   max-width: 640px;
   margin: 0 auto 1rem;
 }
+
+.summary {
+  padding: 0 0 0 1rem;
+  border-left: 1px solid currentColor;
+  p {
+      margin: 0 auto 0;
+  }
+  dt {
+    font-size: 75%;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  dd {
+      margin: 0 auto 1rem;
+  }
+}
+

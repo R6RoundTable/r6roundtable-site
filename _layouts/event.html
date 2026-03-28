@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<article id="content">
+    <div class="page-info">
+        <h1 class="page-title">
+            <span class="parent">
+                <a href="/events">Events</a> /
+            </span>
+            {{ page.title }}
+        </h1>
+        {% if page.description %}
+            <p class="page-description">
+                {{ page.description | markdownify | remove: '<p>' | remove: '</p>' }}
+            </p>
+        {% endif %}
+    </div>
+    <div class="page-content">
+        <div class="page-content-main">
+            <div class="summary lead">
+                <dl>
+                    <dt>Location</dt>
+                    <dd>
+                        <strong>{{page.location}}</strong><br>
+                        {{page.venue}}
+                    </dd>
+
+                    <dt>Date</dt>
+                    <dd>
+                        <strong>{{page.start_date | date_to_string}}</strong>
+                        {% if page.end_date != page.start_date and page.end_date %}
+                        to <strong>{{page.end_date | date_to_string}}</strong>
+                        {% endif %}
+                    </dd>
+
+                    <dt>Quick links</dt>
+                    <dd>
+                        <ul>
+                            {% for link in page.links %}
+                            <li>
+                                {% if link.link %}<a href="{{link.link}}">{% endif %}
+                                {{link.name}}
+                                {% if link.link %}</a>{% endif %}
+                                {% if link.text %}- {{link.text}}{% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+            <p class="page-date">Last updated: {{ page.date | date_to_string }}</p>
+            {{content}}
+        </div>
+    </div>
+</article>
