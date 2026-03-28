@@ -43,6 +43,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
       - name: Update events.json
+        run: curl https://roundtablebot.r6roundtable.com/events
         run: curl --output _data/events.json https://roundtablebot.r6roundtable.com/events
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
