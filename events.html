@@ -5,12 +5,10 @@ description: See a list of events Round Table members are attending!
 ---
 
 <p>
-This page is in <b>beta</b> and will be continually improved with additional features.
+  <b>Please note:</b> Information on this page is parsed from the <code>#event-threads</code> channel on the Discord server, and may be inaccurate. Please confirm event details with official sources, and report any errors on the Discord server in the respective thread! 
 </p>
 
-<p>
-  <b>Please note:</b> Information provide from this page is taken from the #event-threads channel on the Discord server, and may be inaccurate. Please report any errors on the server!
-</p>
+<p>Information updates every 24 hours. Last update: <span class="datetime">{{ site.time | date_to_xmlschema }}</span></p>
 
 <div>
   <details>
@@ -162,3 +160,7 @@ This page is in <b>beta</b> and will be continually improved with additional fea
   });
   calendar.render();
 </script>
+
+<!-- Scripts for conversion to local time -->
+<script src="/assets/js/luxon.min.js"></script>
+<script src="/assets/js/datetime.js"></script>
