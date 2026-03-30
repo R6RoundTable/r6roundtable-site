@@ -135,9 +135,17 @@ description: See a list of events Round Table members are attending!
 <script>
   let events = [];
   document.querySelectorAll(".event-item").forEach(item => {
+    let endDate = item.dataset["endDate"];
+    // fullcalendar end dates are exclusive, so we have to add a day
+    if(endDate)
+    {
+      endDate = new Date(endDate)
+      console.log(endDate);
+      endDate.setUTCDate(endDate.getUTCDate() + 1);
+    }
     events.push({
       "start": item.dataset["startDate"],
-      "end": item.dataset["endDate"],
+      "end": endDate,
       "allDay": true,
       "title": item.dataset["title"]
     });
